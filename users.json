@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Aarav",
+        "number": "9876543210",
+        "email": "aarav@example.com",
+        "address": "1 Ganges Street, Delhi, India"
+    },
+    {
+        "name": "Bhavya",
+        "number": "1234567890",
+        "email": "bhavya@example.com",
+        "address": "2 Himalaya Road, Mumbai, India"
+    },
+    {
+        "name": "Chetna",
+        "number": "5555555555",
+        "email": "chetna@example.com",
+        "address": "3 Lotus Lane, Bangalore, India"
+    },
+    {
+        "name": "Divya",
+        "number": "7777777777",
+        "email": "divya@example.com",
+        "address": "4 Taj Mahal Street, Kolkata, India"
+    },
+    {
+        "name": "Eshaan",
+        "number": "9999999999",
+        "email": "eshaan@example.com",
+        "address": "5 Ganga River Road, Chennai, India"
+    },
+    {
+        "name": "Farhan",
+        "number": "2222222222",
+        "email": "farhan@example.com",
+        "address": "6 Spice Market, Hyderabad, India"
+    },
+    {
+        "name": "Gauri",
+        "number": "3333333333",
+        "email": "gauri@example.com",
+        "address": "7 Coconut Grove, Pune, India"
+    },
+    {
+        "name": "Hari",
+        "number": "4444444444",
+        "email": "hari@example.com",
+        "address": "8 Mango Street, Ahmedabad, India"
+    },
+    {
+        "name": "Isha",
+        "number": "6666666666",
+        "email": "isha@example.com",
+        "address": "9 Saffron Lane, Jaipur, India"
+    },
+    {
+        "name": "Jaya",
+        "number": "8888888888",
+        "email": "jaya@example.com",
+        "address": "10 Ayurveda Avenue, Varanasi, India"
+    },
+    {
+        "name": "Kiran",
+        "number": "1212121212",
+        "email": "kiran@example.com",
+        "address": "11 Silk Road, Kochi, India"
+    },
+    {
+        "name": "Lakshmi",
+        "number": "3434343434",
+        "email": "lakshmi@example.com",
+        "address": "12 Jasmine Lane, Goa, India"
+    },
+    {
+        "name": "Manish",
+        "number": "5656565656",
+        "email": "manish@example.com",
+        "address": "13 Elephant Street, Mysore, India"
+    },
+    {
+        "name": "Neha",
+        "number": "7878787878",
+        "email": "neha@example.com",
+        "address": "14 Peacock Road, Udaipur, India"
+    },
+    {
+        "name": "Ojas",
+        "number": "9090909090",
+        "email": "ojas@example.com",
+        "address": "15 Sandalwood Lane, Nagpur, India"
+    },
+    {
+        "name": "Prisha",
+        "number": "2323232323",
+        "email": "prisha@example.com",
+        "address": "16 Rose Garden, Chandigarh, India"
+    },
+    {
+        "name": "Qamar",
+        "number": "4545454545",
+        "email": "qamar@example.com",
+        "address": "17 Spice Market, Lucknow, India"
+    },
+    {
+        "name": "Raj",
+        "number": "6767676767",
+        "email": "raj@example.com",
+        "address": "18 Elephant Street, Agra, India"
+    },
+    {
+        "name": "Sanya",
+        "number": "8989898989",
+        "email": "sanya@example.com",
+        "address": "19 Coconut Grove, Surat, India"
+    },
+    {
+        "name": "Tara",
+        "number": "1010101010",
+        "email": "tara@example.com",
+        "address": "20 Lotus Lane, Indore, India"
+    }
+]
